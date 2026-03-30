@@ -1,68 +1,58 @@
-<h2>Hello!</h2>
-<h4>Welcome to my GitHub profile! </h4> 
-<h5>My name is Raphael Frei and I'm a software developer! Bellow, you'll find some of my personal projects...</h5>
-
 <div align="center">
-  <a href="https://github.com/raphaelfrei">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raphaelfrei&layout=compact&langs_count=8&theme=dracula&exclude_repo=financial-manager-old"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raphaelfrei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a></div>    
+  <h1>Hello! 👋</h1>
+  <h3>Welcome to my GitHub profile!</h3>
+  <p>My name is Raphael Frei and I'm a software developer. Below, you'll find some of the projects I've been working on.</p>
+  
+  <a href="[https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/raphaelrfrei/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:raphaelrfrei@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-<a href="https://github.com/raphaelfrei/raphaelfrei/blob/main/projects.md">Checkout some projects</a>
+## 📝 About Me
+Software developer with 8+ years of experience. Currently working with C# (.NET) and Progress 4GL. My goal is to create and work on different projects and stacks, not focusing on just a single language. 
 
-<h3>🥇Specialised in:</h3>
-<h5>
-1. OenEdge Progress 4GL <br>
-2. C#/.NET <br>
-3. Batch Files
-</h5>
+At the moment, I'm focusing on my personal career and active SaaS projects, such as [RomCrate](http://romcrate.com/).
 
-<h3>Works With</h3>
-<p float="left" align="left">
-  <img src="https://yt3.googleusercontent.com/ytc/AL5GRJWI2l7AM0zJdXzNW8aYINIazTxIIPd-n6BwfEUocw=s900-c-k-c0x00ffffff-no-rj" width="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/640px-Microsoft_Office_Access_%282019-present%29.svg.png" width="30"/> 
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" width="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="30"/>
-</p>
+## 🛠️ Tech Stack
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Progress 4GL](https://img.shields.io/badge/Progress%204GL-00529B?style=for-the-badge)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-<h3>Hobby</h3>
-<p float="left" align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="30" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30"/>
-  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256481/file-type-cobol-icon-md.png" width="30"/>
-  <img src="https://veriklick.com/wp-content/uploads/2021/12/Assembly.png" width="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="30"/>
-</p>
+## 💼 Professional Experience
 
-<h3>Databases</h3>
-<p float="left" align="left">
-  <img src="https://yt3.googleusercontent.com/ytc/AL5GRJWI2l7AM0zJdXzNW8aYINIazTxIIPd-n6BwfEUocw=s900-c-k-c0x00ffffff-no-rj" width="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Microsoft_Office_Access_%282019-present%29.svg/640px-Microsoft_Office_Access_%282019-present%29.svg.png" width="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/826px-Microsoft_Office_Excel_%282019–present%29.svg.png" width="30"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" width="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="30"/>
-</p>
+**Adient PLC** *(Feb. 2021 - Present)*
+- **Role:** IT Analyst
+- **Focus:** DBA and desktop application *(Industrial Integration)*.
+- **Stack:** `Progress 4GL`, `Blazor`, `WPF`, `Microsoft SQL Server`
 
-<h3>Web Development/Front End</h3>
-<p float="left" align="left">
-  <img src="https://yt3.googleusercontent.com/ytc/AL5GRJWI2l7AM0zJdXzNW8aYINIazTxIIPd-n6BwfEUocw=s900-c-k-c0x00ffffff-no-rj" width="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" /> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" width="30"/>
-</p>
+**Cosmos Software & Publicidade** *(Feb. 2018 - Present)*
+- **Role:** Managing Partner
+- **Focus:** Mobile, desktop and web software-projects.
+- **Stack:** `.NET MAUI`, `Blazor`, `Avalonia.WPF`, `Microsoft SQL Server`, `PostgreSQL`, `SQLite`
 
-<h3>Game Development/3D Render</h3>
-<p float="left" align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" width="30"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969346.png" width="30"/>
-  <img src="https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/9a78493f50b3cf15df1b06f57675a14c.png" width="30"/>
-</p>
+## 🎓 Education
 
-<h3>Video/Image</h3>
-<p float="left" align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="30"/>
-</p>
+- **MBA in Software Engineering** *(May 2024 - Dec. 2025)*
+  - Final Paper: [Tripper](https://github.com/raphaelfrei/Tripper)
+- **Bachelor in Computer Science** *(Jan. 2020 - Dec. 2023)*
+  - Final Paper: [Financial Manager](https://github.com/raphaelfrei/financial-manager)
+
+## 🏆 Certifications
+
+- Implementing **Progress OpenEdge Replication** for Disaster Recovery *(Jun. 2025)*
+- Progress OpenEdge Full Integration for **PASOE** *(Jun. 2025)*
+- Progress OpenEdge **Advanced Database Administration** *(Apr. 2024)*
+- Progress OpenEdge **Database Performance Tuning** *(Apr. 2024)*
+- **Kepner-Tregoe** - Problem Solving and Decision Making Practitioner *(Feb. 2024)*
+- **ITIL®** Foundation Certificate in IT Service Management *(Jan. 2024 - Jan. 2027)*
+- AWS Academy Graduate - **Cloud Foundations** *(Oct. 2022)*
+- Cisco - **CCNA: Introduction to Networks** *(Jun. 2022)*
+- PCAP: **Programming Essentials in Python** *(May 2020)*
+- CLA: **Programming Essentials in C** *(Apr. 2020)*
+
+## 🚀 Public Projects
+
+### [RomCrate](http://romcrate.com/) - Ultimate game collection manager
+Available for [Android](https://play.google.com/store/apps/details?id=com.agenciacosmos.romcrate) and [iOS/macOS](https://apps.apple.com/br/app/romcrate/id6759972404)
