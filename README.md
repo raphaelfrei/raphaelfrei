@@ -54,5 +54,8 @@ At the moment, I'm focusing on my personal career and active SaaS projects, such
 
 ## 🚀 Public Projects
 
-### [RomCrate](http://romcrate.com/) - Ultimate game collection manager
+### [RomCrate](https://romcrate.com/) - Ultimate game collection manager
 Available for [Android](https://play.google.com/store/apps/details?id=com.agenciacosmos.romcrate) and [iOS/macOS](https://apps.apple.com/br/app/romcrate/id6759972404)
+
+### [NPad](https://getnpad.com/) - Lightweight File Editor & Notepad for Mac
+Available soon for MacOS.
