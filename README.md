@@ -58,4 +58,4 @@ At the moment, I'm focusing on my personal career and active SaaS projects, such
 Available for [Android](https://play.google.com/store/apps/details?id=com.agenciacosmos.romcrate) and [iOS/macOS](https://apps.apple.com/br/app/romcrate/id6759972404)
 
 ### [NPad](https://getnpad.com/) - Lightweight File Editor & Notepad for Mac
-Available soon for MacOS.
+Available for [MacOS](https://apps.apple.com/br/app/npad-file-editor/id6769943495).
