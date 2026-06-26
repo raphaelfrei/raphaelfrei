@@ -54,6 +54,9 @@ At the moment, I'm focusing on my personal career and active SaaS projects, such
 
 ## 🚀 Public Projects
 
+### [Raphael Frei](https://raphaelfrei.com.br/) - Personal and Professional Resume
+Available for [Web](https://raphaelfrei.com.br/).
+
 ### [RomCrate](https://romcrate.com/) - Ultimate game collection manager
 Available for [Android](https://play.google.com/store/apps/details?id=com.agenciacosmos.romcrate) and [iOS/macOS](https://apps.apple.com/br/app/romcrate/id6759972404)
 
