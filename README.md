@@ -54,7 +54,7 @@ At the moment, I'm focusing on my personal career and active SaaS projects, such
 
 ## 🚀 Public Projects
 
-### [Raphael Frei](https://raphaelfrei.com.br/) - Personal and Professional Resume
+### [Raphael Frei](https://github.com/raphaelfrei/RaphaelFreiWebBlazor) - Personal and Professional Resume
 Available for [Web](https://raphaelfrei.com.br/).
 
 ### [RomCrate](https://romcrate.com/) - Ultimate game collection manager
