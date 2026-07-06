@@ -62,3 +62,6 @@ Available for [Android](https://play.google.com/store/apps/details?id=com.agenci
 
 ### [NPad](https://getnpad.com/) - Lightweight File Editor & Notepad for Mac
 Available for [MacOS](https://apps.apple.com/br/app/npad-file-editor/id6769943495).
+
+## [LocalGraph](https://getlocalgraph.com/) - URL Inspector
+Under development for Windows, MacOS, Android, iOS and iPadOS.
