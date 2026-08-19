@@ -63,3 +63,6 @@ Avaliable for [MacOS](https://apps.apple.com/us/app/deck-dvr-record-converter/id
 
 ### [LocalGraph](https://getlocalgraph.com/) - URL Inspector
 Avaliable for [MacOS](https://apps.apple.com/br/app/localgraph-analisador-seo/id6784735578). Under development for Windows, Android, iOS and iPadOS.
+
+### [Pastory](https://raphaelfrei.com.br/pastory) - Clipboard Manager
+Avaliable for [MacOS](https://apps.apple.com/br/app/pastory-clipboard-manager/id6795323097).
