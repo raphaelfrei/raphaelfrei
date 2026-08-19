@@ -27,11 +27,6 @@ At the moment, I'm focusing on my personal career and active SaaS projects, such
 - **Focus:** DBA and desktop application *(Industrial Integration)*.
 - **Stack:** `Progress 4GL`, `Blazor`, `WPF`, `Microsoft SQL Server`
 
-**Cosmos Software & Publicidade** *(Feb. 2018 - Present)*
-- **Role:** Managing Partner
-- **Focus:** Mobile, desktop and web software-projects.
-- **Stack:** `.NET MAUI`, `Blazor`, `Avalonia.WPF`, `Microsoft SQL Server`, `PostgreSQL`, `SQLite`
-
 ## 🎓 Education
 
 - **MBA in Software Engineering** *(May 2024 - Dec. 2025)*
