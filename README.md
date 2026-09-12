@@ -59,10 +59,10 @@ Available for [Android](https://play.google.com/store/apps/details?id=com.agenci
 Available for [MacOS](https://apps.apple.com/br/app/npad-file-editor/id6769943495).
 
 ### [Deck DVR](https://deckdvr.com/) - Record Converter
-Avaliable for [MacOS](https://apps.apple.com/us/app/deck-dvr-record-converter/id6789263534). Under development for Windows
+Avaliable for [MacOS](https://apps.apple.com/us/app/deck-dvr-record-converter/id6789263534).
 
 ### [LocalGraph](https://getlocalgraph.com/) - URL Inspector
-Avaliable for [MacOS](https://apps.apple.com/br/app/localgraph-analisador-seo/id6784735578). Under development for Windows, Android, iOS and iPadOS.
+Avaliable for [MacOS](https://apps.apple.com/br/app/localgraph-analisador-seo/id6784735578). Under development for Android, iOS and iPadOS.
 
 ### [Pastory](https://raphaelfrei.com.br/pastory) - Clipboard Manager
 Avaliable for [MacOS](https://apps.apple.com/br/app/pastory-clipboard-manager/id6795323097).
