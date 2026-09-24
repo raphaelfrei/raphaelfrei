@@ -8,7 +8,7 @@
 </div>
 
 ## 📝 About Me
-Software developer with 8+ years of experience. Currently working with C# (.NET) and Progress 4GL. My goal is to create and work on different projects and stacks, not focusing on just a single language. 
+Software developer with 5+ years of experience. Currently working with C# (.NET) and Progress 4GL. My goal is to create and work on different projects and stacks, not focusing on just a single language. 
 
 At the moment, I'm focusing on my personal career and active SaaS projects, such as [RomCrate](http://romcrate.com/).
 
