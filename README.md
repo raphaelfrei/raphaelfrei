@@ -3,7 +3,7 @@
   <h3>Welcome to my GitHub profile!</h3>
   <p>My name is Raphael Frei and I'm a software developer. Below, you'll find some of the projects I've been working on.</p>
   
-  <a href="[https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/raphaelrfrei/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/raphaelrfrei/](https://www.linkedin.com/in/raphaelrfrei/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:raphaelrfrei@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
@@ -58,11 +58,8 @@ Available for [Android](https://play.google.com/store/apps/details?id=com.agenci
 ### [NPad](https://getnpad.com/) - Lightweight File Editor & Notepad for Mac
 Available for [MacOS](https://apps.apple.com/br/app/npad-file-editor/id6769943495).
 
-### [Deck DVR](https://deckdvr.com/) - Record Converter
-Avaliable for [MacOS](https://apps.apple.com/us/app/deck-dvr-record-converter/id6789263534).
-
-### [LocalGraph](https://getlocalgraph.com/) - URL Inspector
-Avaliable for [MacOS](https://apps.apple.com/br/app/localgraph-analisador-seo/id6784735578). Under development for Android, iOS and iPadOS.
-
 ### [Pastory](https://raphaelfrei.com.br/pastory) - Clipboard Manager
 Avaliable for [MacOS](https://apps.apple.com/br/app/pastory-clipboard-manager/id6795323097).
+
+### [ChromaSpace](https://chromaspace.app/) - Live Wallpaper for MacOS
+Under development for MacOS.
